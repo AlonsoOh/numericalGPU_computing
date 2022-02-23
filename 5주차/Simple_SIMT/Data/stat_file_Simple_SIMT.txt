@@ -1,0 +1,60 @@
+
+*** Host(CPU):: KER = 0, Time: 1319.265ms (2020-10- 1 18:57:28)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10- 1 18:57:31)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.420ms
+
+*** Host(CPU):: KER = 0, Time: 1121.101ms (2020-10- 1 19:22: 3)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10- 1 19:22: 3)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.024ms
+
+*** Host(CPU):: KER = 0, Time: 1292.851ms (2020-10- 7  7:16:45)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10- 7  7:16:47)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.053ms
+
+*** Host(CPU):: KER = 0, Time: 1189.027ms (2020-10-19  1:39:14)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10-19  1:39:15)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.027ms
+
+*** Host(CPU):: KER = 0, Time: 1536.112ms (2020-10-19  9:35:10)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10-19  9:35:11)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.040ms
+
+*** Host(CPU):: KER = 0, Time: 1237.550ms (2020-10-20 15:10:24)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10-20 15:10:26)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.038ms
+
+*** Host(CPU):: KER = 1, Time: 1259.007ms (2020-10-20 15:14:51)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10-20 15:14:53)
+--- GWS = 16777216, LWS = 32, KER = 1, N_EXE = 5, Ave_time(S_to_E): 28.353ms
+
+*** Host(CPU):: KER = 0, Time: 1258.570ms (2020-10-20 15:15: 4)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10-20 15:15: 4)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.037ms
+
+*** Host(CPU):: KER = 0, Time: 1353.887ms (2022- 2-23 10:52:44)
+
+*** DEVICE (NVIDIA GeForce GTX 1050 Ti) (2022- 2-23 10:52:46)
+--- GWS = 16777216, LWS = 32, KER = 0, N_EXE = 5, Ave_time(S_to_E): 3.599ms
+
+*** Host(CPU):: KER = 1, Time: 1343.592ms (2022- 2-23 10:55:27)
+
+*** DEVICE (NVIDIA GeForce GTX 1050 Ti) (2022- 2-23 10:55:27)
+--- GWS = 16777216, LWS = 32, KER = 1, N_EXE = 5, Ave_time(S_to_E): 16.761ms
+
+*** Host(CPU):: KER = 2, Time: 30778.244ms (2022- 2-23 11: 6:32)
+
+*** DEVICE (NVIDIA GeForce GTX 1050 Ti) (2022- 2-23 11: 6:32)
+--- GWS = 16777216, LWS = 32, KER = 2, N_EXE = 5, Ave_time(S_to_E): 348.687ms
+
+*** Host(CPU):: KER = 3, Time: 30815.533ms (2022- 2-23 11: 7:25)
+
+*** DEVICE (NVIDIA GeForce GTX 1050 Ti) (2022- 2-23 11: 7:26)
+--- GWS = 16777216, LWS = 32, KER = 3, N_EXE = 5, Ave_time(S_to_E): 613.153ms
