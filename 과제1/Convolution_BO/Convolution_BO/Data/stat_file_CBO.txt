@@ -1,0 +1,368 @@
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10- 9  8:50: 8)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.203ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-10-19 15:18: 6)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.211ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 2 20:39:19)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.325ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:40:38)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.896ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:41:49)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 21.550ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:42:17)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.017ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:47:10)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 22.743ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:47:50)
+--- IMAGE = 0(Data/Input/Image_0_7360_4832.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (7360, 4832), LWS = (32, 16), Ave_time(S_to_E): 190.282ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:48:37)
+--- IMAGE = 0(Data/Input/Image_0_7360_4832.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (7360, 4832), LWS = (32, 16), Ave_time(S_to_E): 37.714ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:49:53)
+--- IMAGE = 0(Data/Input/Image_0_7360_4832.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (7360, 4832), LWS = (32, 16), Ave_time(S_to_E): 18.071ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:51:23)
+--- IMAGE = 0(Data/Input/Image_0_7360_4832.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (7360, 4832), LWS = (32, 16), Ave_time(S_to_E): 60.136ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:52:34)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 2, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.195ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 10:57: 0)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 2, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.250ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:10:21)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 20.344ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:10:28)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 20.588ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:11:46)
+--- IMAGE = 1(Data/Input/Image_1_9984_6400.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (9984, 6400), LWS = (32, 16), Ave_time(S_to_E): 319.167ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:12:12)
+--- IMAGE = 1(Data/Input/Image_1_9984_6400.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (9984, 6400), LWS = (32, 16), Ave_time(S_to_E): 63.909ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:12:38)
+--- IMAGE = 2(Data/Input/Image_2_7680_4320.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (7680, 4320), LWS = (32, 16), Ave_time(S_to_E): 35.778ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:13:19)
+--- IMAGE = 2(Data/Input/Image_2_7680_4320.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (7680, 4320), LWS = (32, 16), Ave_time(S_to_E): 179.988ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:17: 9)
+--- IMAGE = 2(Data/Input/Image_2_7680_4320.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (7680, 4320), LWS = (32, 16), Ave_time(S_to_E): 16.702ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:18:33)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.101ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:22: 6)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 25, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 2.415ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:22:31)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 2.262ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:22:46)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 25, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 1.954ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:23: 4)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 25, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 2.297ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:24:34)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 2, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 2.793ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:24:47)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 2, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.448ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:25:24)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 8.575ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:25:47)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 16), Ave_time(S_to_E): 53.028ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:26:38)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:26:58)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 52.046ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:27:29)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 16), Ave_time(S_to_E): 52.501ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:28: 4)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 19, GWS = (6304, 4192), LWS = (32, 16), Ave_time(S_to_E): 35.432ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:30:31)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.088ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:30:54)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.016ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:33:13)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.463ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:33:26)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 4.010ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:40: 7)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 22.237ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:49:11)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (2048, 2048), LWS = (32, 16), Ave_time(S_to_E): 20.319ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:53:18)
+--- IMAGE = 3(Data/Input/Image_3_8960_5408.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (8960, 5408), LWS = (32, 16), Ave_time(S_to_E): 235.697ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:54:12)
+--- IMAGE = 3(Data/Input/Image_3_8960_5408.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 0, GWS = (8960, 5408), LWS = (32, 16), Ave_time(S_to_E): 155.110ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 4 11:55:22)
+--- IMAGE = 5(Data/Input/Image_5_1856_1376.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 0, GWS = (1856, 1376), LWS = (32, 16), Ave_time(S_to_E): 8.157ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 12: 9:31)
+--- IMAGE = 5(Data/Input/Image_5_1856_1376.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 0, GWS = (1856, 1376), LWS = (32, 16), Ave_time(S_to_E): 8.032ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 12:13:28)
+--- IMAGE = 5(Data/Input/Image_5_1856_1376.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 0, GWS = (1856, 1376), LWS = (32, 16), Ave_time(S_to_E): 8.165ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:44: 7)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.282ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:44:28)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.514ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:45:22)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.273ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:45:46)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.274ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:46:21)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.517ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:46:36)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.906ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:46:51)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 0, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 1.318ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:47:13)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 1, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.814ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:47:28)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 1, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.540ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:47:40)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 1, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.382ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:47:56)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 1, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.205ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:48:58)
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:49:39)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 2, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.175ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:49:59)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 2, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.278ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:50:11)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 2, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.374ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:50:25)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 2, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.539ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:50:53)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.136ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:51: 9)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 27, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.215ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:51:20)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 29, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.334ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:51:32)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.497ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:51:52)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.176ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:52: 5)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 17, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.243ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:52:20)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 19, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.365ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:52:32)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.531ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 13:59:58)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.152ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14: 0:41)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.138ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:32: 0)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 16), Ave_time(S_to_E): 0.137ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:32:22)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.130ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:32:40)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.128ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:32:53)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 4), Ave_time(S_to_E): 0.133ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:33: 9)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (16, 16), Ave_time(S_to_E): 0.130ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:33:32)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (16, 8), Ave_time(S_to_E): 0.137ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:33:49)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (16, 8), Ave_time(S_to_E): 0.128ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:34: 7)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 27, GWS = (512, 512), LWS = (16, 8), Ave_time(S_to_E): 0.210ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:34:21)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 29, GWS = (512, 512), LWS = (16, 8), Ave_time(S_to_E): 0.331ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:34:37)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (16, 8), Ave_time(S_to_E): 0.484ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:34:56)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 27, GWS = (512, 512), LWS = (16, 16), Ave_time(S_to_E): 0.211ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:35: 8)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 29, GWS = (512, 512), LWS = (16, 16), Ave_time(S_to_E): 0.329ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:35:21)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (16, 16), Ave_time(S_to_E): 0.477ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:35:38)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 4), Ave_time(S_to_E): 140695280.000ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:35:49)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 4), Ave_time(S_to_E): 0.129ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:36: 3)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 27, GWS = (512, 512), LWS = (32, 4), Ave_time(S_to_E): 0.211ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:36:19)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 29, GWS = (512, 512), LWS = (32, 4), Ave_time(S_to_E): 0.328ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:36:32)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 4), Ave_time(S_to_E): 140696176.000ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:37:10)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.485ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:37:29)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 29, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.333ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:37:45)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 27, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.209ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:38: 9)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.130ms
+
+*** DEVICE (GeForce GTX 1050 Ti) (2020-11- 7 14:39: 5)
+--- IMAGE = 9(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (16, 8), Ave_time(S_to_E): 0.135ms

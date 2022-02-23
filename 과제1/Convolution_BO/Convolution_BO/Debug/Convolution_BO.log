@@ -1,0 +1,4 @@
+﻿  main_C_BO.cpp
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO\Convolution_BO\main_C_BO.cpp(14,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'FreeImage/FreeImage.h': No such file or directory
+  my_OpenCL_util_2.cpp
+  코드를 생성하고 있습니다...
