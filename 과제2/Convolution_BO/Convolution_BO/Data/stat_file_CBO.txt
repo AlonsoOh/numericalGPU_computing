@@ -1,0 +1,460 @@
+
+*** DEVICE (Baffin) (2020-11-19 17:34: 1)
+
+*** DEVICE (Baffin) (2020-11-19 17:34:47)
+
+*** DEVICE (Baffin) (2020-11-19 17:38:57)
+
+*** DEVICE (Baffin) (2020-11-19 17:43: 5)
+
+*** DEVICE (Baffin) (2020-11-19 17:45: 6)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (16, 16), Ave_time(S_to_E): 6.486ms
+
+*** DEVICE (Baffin) (2020-11-19 17:45:42)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 8), Ave_time(S_to_E): 6.724ms
+
+*** DEVICE (Baffin) (2020-11-19 18: 4:42)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 8), Ave_time(S_to_E): 6.623ms
+
+*** DEVICE (Baffin) (2020-11-19 18: 7:52)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (2048, 2048), LWS = (32, 8), Ave_time(S_to_E): 6.632ms
+
+*** DEVICE (Baffin) (2020-11-19 18: 8:29)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.416ms
+
+*** DEVICE (Baffin) (2020-11-19 18: 9:49)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.366ms
+
+*** DEVICE (Baffin) (2020-11-19 18:10:20)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.411ms
+
+*** DEVICE (Baffin) (2020-11-19 18:12:40)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 25, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 18:13:14)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 27, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.175ms
+
+*** DEVICE (Baffin) (2020-11-19 18:13:43)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.397ms
+
+*** DEVICE (Baffin) (2020-11-19 18:17:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.366ms
+
+*** DEVICE (Baffin) (2020-11-19 18:18:15)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.420ms
+
+*** DEVICE (Baffin) (2020-11-19 20:44:17)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.846ms
+
+*** DEVICE (Baffin) (2020-11-19 20:44:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.416ms
+
+*** DEVICE (Baffin) (2020-11-19 20:45:45)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.442ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 0:28)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.436ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 0:28)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.442ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 1:25)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.425ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 4:10)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.139ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 4:49)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.502ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 6: 4)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.686ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 6: 5)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.313ms
+
+*** DEVICE (Baffin) (2020-11-19 21: 7: 2)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 82.543ms
+
+*** DEVICE (Baffin) (2020-11-19 21:13:44)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 83.580ms
+
+*** DEVICE (Baffin) (2020-11-19 21:14:57)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.545ms
+
+*** DEVICE (Baffin) (2020-11-19 21:15:52)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.525ms
+
+*** DEVICE (Baffin) (2020-11-19 21:15:53)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.147ms
+
+*** DEVICE (Baffin) (2020-11-19 21:17:49)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.081ms
+
+*** DEVICE (Baffin) (2020-11-19 21:18:49)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.712ms
+
+*** DEVICE (Baffin) (2020-11-19 21:21:23)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.462ms
+
+*** DEVICE (Baffin) (2020-11-19 21:21:49)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 41.297ms
+
+*** DEVICE (Baffin) (2020-11-19 21:22:31)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 41.447ms
+
+*** DEVICE (Baffin) (2020-11-19 21:24:19)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 40.487ms
+
+*** DEVICE (Baffin) (2020-11-19 21:26: 8)
+--- IMAGE = 4(Data/Input/Image_4_6304_4192.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (6304, 4192), LWS = (32, 8), Ave_time(S_to_E): 41.303ms
+
+*** DEVICE (Baffin) (2020-11-19 21:28:17)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.417ms
+
+*** DEVICE (Baffin) (2020-11-19 21:28:18)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.417ms
+
+*** DEVICE (Baffin) (2020-11-19 21:28:33)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.436ms
+
+*** DEVICE (Baffin) (2020-11-19 21:29: 6)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.416ms
+
+*** DEVICE (Baffin) (2020-11-19 21:29: 6)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.436ms
+
+*** DEVICE (Baffin) (2020-11-19 21:29:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.417ms
+
+*** DEVICE (Baffin) (2020-11-19 21:35:30)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.424ms
+
+*** DEVICE (Baffin) (2020-11-19 21:36: 8)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.422ms
+
+*** DEVICE (Baffin) (2020-11-19 21:36:15)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.424ms
+
+*** DEVICE (Baffin) (2020-11-19 21:36:54)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.416ms
+
+*** DEVICE (Baffin) (2020-11-19 21:40:49)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.423ms
+
+*** DEVICE (Baffin) (2020-11-19 21:42:24)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.596ms
+
+*** DEVICE (Baffin) (2020-11-19 21:45:33)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.117ms
+
+*** DEVICE (Baffin) (2020-11-19 21:46:20)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:46:21)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:46:53)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.118ms
+
+*** DEVICE (Baffin) (2020-11-19 21:48:26)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:48:27)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:49:28)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:49:28)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:49:46)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 21:49:47)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:51: 9)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:53:11)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 21:58:41)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:59:15)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 21:59:15)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 0:54)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.117ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 1:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 2:25)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 2:54)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 5:39)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 5:59)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 7:30)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 7:34)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 8: 6)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 8:13)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.121ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 9:45)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 22: 9:46)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:10:23)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:11:41)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:29:47)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:29:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:29:57)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 22:29:58)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:36: 6)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.238ms
+
+*** DEVICE (Baffin) (2020-11-19 22:36: 6)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.118ms
+
+*** DEVICE (Baffin) (2020-11-19 22:38:23)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:38:24)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.123ms
+
+*** DEVICE (Baffin) (2020-11-19 22:40:42)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:40:42)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:43:36)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:43:37)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.117ms
+
+*** DEVICE (Baffin) (2020-11-19 22:45:26)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:45:27)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-19 22:49:11)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-19 22:49:12)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:22:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:22:48)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:25:16)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:25:16)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:25:33)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.118ms
+
+*** DEVICE (Baffin) (2020-11-20 14:25:34)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:25:53)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-20 14:25:53)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:26: 9)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:26: 9)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-20 14:26:20)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-20 14:26:20)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 5, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:27:38)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.113ms
+
+*** DEVICE (Baffin) (2020-11-20 14:27:39)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 15, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.114ms
+
+*** DEVICE (Baffin) (2020-11-20 14:28:20)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 17, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.196ms
+
+*** DEVICE (Baffin) (2020-11-20 14:28:21)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 7, N_EXE = 7,
+     KER = 17, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.197ms
+
+*** DEVICE (Baffin) (2020-11-20 14:29:21)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 19, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.321ms
+
+*** DEVICE (Baffin) (2020-11-20 14:29:22)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 19, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.320ms
+
+*** DEVICE (Baffin) (2020-11-20 14:29:53)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.434ms
+
+*** DEVICE (Baffin) (2020-11-20 14:29:54)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 111, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.417ms
+
+*** DEVICE (Baffin) (2020-11-20 14:49:18)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 19, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.320ms
+
+*** DEVICE (Baffin) (2020-11-20 14:49:18)
+--- IMAGE = 11(Data/Input/Tiger_texture_512_512.jpg), GF_SIZE = 9, N_EXE = 7,
+     KER = 19, GWS = (512, 512), LWS = (32, 8), Ave_time(S_to_E): 0.321ms

@@ -1,0 +1,20 @@
+﻿  main_CBO.cpp
+C:\usr\local\OpenGL\include\FreeImage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\Context_CBO.h(64,1): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\Context_CBO.h(74,1): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\Context_CBO.h(86,1): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\Context_CBO.h(100,1): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'size_t'입니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'size_t'입니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'size_t'입니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'size_t'입니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\Convolution_BO\main_CBO.cpp(222,5): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다.
+  1 of 35 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Convolution_BO.vcxproj -> C:\Users\syihm\Desktop\Work\Teaching\CSEG437_5437\Codes\2009_OpenCL_Sample_Codes\Convolution_BO_배포직전\x64\Release\Convolution_BO.exe
